@@ -1,0 +1,3 @@
+{
+  "tenantTables": ["users", "projects", "categories"]
+}
